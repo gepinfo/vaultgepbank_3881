@@ -1,0 +1,7 @@
+{
+  "name": "vaultgepbank",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
